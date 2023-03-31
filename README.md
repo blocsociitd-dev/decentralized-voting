@@ -1,5 +1,5 @@
 ## Short intro
-The project is aimed at providing a secure and private voting system that uses blockchain technology and zero-knowledge proofs (ZK proofs) to ensure the anonymity of voters. The decentralized voting tool will allow voters to cast their votes anonymously without the need for a central authority or intermediary. The use of ZK proofs will provide additional privacy protections by ensuring that voter identities are not revealed, while the use of blockchain technology will ensure that the voting results are transparent and tamper-proof. ~~ ChatGPT
+The project is aimed at providing a secure and private voting system that uses blockchain technology and zero-knowledge proofs (ZK proofs) to ensure the anonymity of voters. The decentralized voting tool will allow voters to cast their votes anonymously without the need for a central authority or intermediary. The use of ZK proofs will provide additional privacy protections by ensuring that voter identities are not revealed, while the use of blockchain technology will ensure that the voting results are transparent and tamper-proof.
 
 
 
